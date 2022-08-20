@@ -6,7 +6,7 @@ language: "FIXME"     # en
 humandate: "FIXME"    # Aug 23-26, 2022 
 humantime: "FIXME"    # 10:00 am - 2:00 pm  
 startdate: FIXME      # 2022-08-23 
-enddate: FIXME        # 2022-08-26
+enddate: 2022-08-26    # 
 instructor: ["FIXME"] # ["Liz Stokes", "Ann Backhaus"]
 helper: ["FIXME"]     # 
 contact: ["fixme@example.org"]    # ["liz.stokes@ardc.edu.au"]
