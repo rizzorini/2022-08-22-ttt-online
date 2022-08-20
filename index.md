@@ -1,15 +1,15 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
-country: "FIXME"      # W3
-language: "FIXME"     # en
-humandate: "FIXME"    # Aug 23-26, 2022 
-humantime: "FIXME"    # 10:00 am - 2:00 pm  
-startdate: FIXME      # 2022-08-23 
+country: W3      # 
+language: en    # 
+humandate: Aug 23-26, 2022    # Aug 23-26, 2022 
+humantime: 10:00 am - 2:00 pm     # 10:00 am - 2:00 pm  
+startdate: 2022-08-23   # 2022-08-23 
 enddate: 2022-08-26    # 
-instructor: ["FIXME"] # ["Liz Stokes", "Ann Backhaus"]
-helper: ["FIXME"]     # 
-contact: ["fixme@example.org"]    # ["liz.stokes@ardc.edu.au"]
+instructor: ["Liz Stokes", "Ann Backhaus"] # ["Liz Stokes", "Ann Backhaus"]
+helper: ["tbd"]     # 
+contact: ["liz.stokes@ardc.edu.au"]    # ["liz.stokes@ardc.edu.au"]
 etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:            # for online events, delete the second section below. for in-person events, customize the second section and delete the first section.
